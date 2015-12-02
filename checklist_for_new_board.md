@@ -3,6 +3,9 @@
 When a new member joins the board, she or he should have accesses or
 privileges listed below
 
+#### README.md of this repository
+- add a name with github id to README.md in this repository
+
 #### clojurebridge github account
 - should be invited to the account
 - should have an owner status

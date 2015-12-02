@@ -5,6 +5,7 @@ This repository saves and keeps tracking various documents or etc.
 #### Who is the board
 
 - Ali King @zahara
+- Anna Pawlicka @annapawlicka
 - Bhaskar Mookerji @mookerji
 - Katherine Fellows @kpfell
 - Yoko Harada @yokolet

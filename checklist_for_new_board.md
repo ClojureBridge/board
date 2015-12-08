@@ -3,6 +3,9 @@
 When a new member joins the board, she or he should have accesses or
 privileges listed below
 
+#### Google Calendar
+- send invitation to the email for our monthly meeting on Google Hangout
+
 #### README.md of this repository
 - add a name with github id to README.md in this repository
 
@@ -21,5 +24,6 @@ Additionally,
 - should have access to trello board, ClojureBridge Core Meeting Agendas
 
 #### LastPass account
-- pending (will setup LastPass account/sharing soon)
+- send invitation (should be done by administrator user)
+- add she or he to the ClojureBridge group on LastPass
 

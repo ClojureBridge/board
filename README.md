@@ -4,11 +4,11 @@ This repository saves and keeps tracking various documents or etc.
 
 #### Who is the board
 
-- Ali King [@zahara](https://github.com/zahara)
 - Anna Pawlicka [@annapawlicka](https://github.com/annapawlicka)
 - Bhaskar Mookerji [@mookerji](https://github.com/mookerji)
 - David Chambers [@davidchambers](https://github.com/davidchambers)
 - Katherine Fellows [@kpfell](https://github.com/kpfell)
+- Malwine Gier [@Malwine](https://github.com/Malwine)
 - Yoko Harada [@yokolet](https://github.com/yokolet)
 
 #### What is this for?

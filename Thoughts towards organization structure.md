@@ -54,6 +54,8 @@ Handles anything legalese: this is most likely to be mundane copyright & tradema
 Handles any corporate sponsorships that are broader than the local chapter level.
 
 Meets roughly monthly.
+
+members: Bhaskar Mookerji, Katherine Fellows
 </td>
   </tr>
   <tr>
@@ -61,11 +63,8 @@ Meets roughly monthly.
     <td>Strive for at least two co-leads at all times.</td>
     <td>Maintain the master curriculum & community docs, including handling pull requests.
 
-Current de facto members:
-Clinton
-Bridget
-Yoko
-Sean
+members:
+David Chambers, Yoko Harada
 </td>
   </tr>
   <tr>
@@ -75,9 +74,9 @@ Sean
 
 Currently not responsible for web site content.
 
-Current de facto members:
-Jamie
-Bridget - DNS, email, etc.</td>
+members:
+Jamie Kite (website), Bhaskar Mookerji (DNS), Yoko Harada (website)
+</td>
   </tr>
   <tr>
     <td>Community Outreach & Support Team</td>
@@ -94,11 +93,8 @@ Maintains the cookbook and web site content.
 
 Handles press inquiries.
 
-Current de facto members:
-Bridget
-Maggie
-Sean
-Jennifer - Twitter!!!
+members:
+Anna Pawlicka, Bhaskar Mookerji, David Chambers, Katherine Fellows, Malwine Gier, Yoko Harada
 </td>
   </tr>
 </table>

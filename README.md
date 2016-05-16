@@ -13,9 +13,9 @@ This repository saves and keeps tracking various documents or etc.
 
 #### What is this for?
 
-We are switching over to github repository to keep tracking various
+We are switching over to this github repository to keep tracking various
 documents. Currently, most of the documents are scattered around
-Google docs or other for a historical reason.
+Google docs or other for historical reasons.
 
 
 #### Questions, suggestions, or other
@@ -23,7 +23,7 @@ Google docs or other for a historical reason.
 Please file an issue in this repository.
 
 ### WIKI
-We have a [wiki](https://github.com/ClojureBridge/board/wiki) to collect information and email template. 
+We have a [wiki](https://github.com/ClojureBridge/board/wiki) to collect information and email templates. 
 
 #### What's next?
 

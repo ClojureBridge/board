@@ -22,7 +22,8 @@ Google docs or other for a historical reason.
 
 Please file an issue in this repository.
 
-
+### WIKI
+We have a [wiki](https://github.com/ClojureBridge/board/wiki) to collect information and email template. 
 
 #### What's next?
 

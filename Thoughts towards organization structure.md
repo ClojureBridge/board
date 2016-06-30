@@ -102,7 +102,7 @@ Anna Pawlicka, Bhaskar Mookerji, David Chambers, Katherine Fellows, Malwine Gier
 
 ### Terms of Service
 
-The term of service for all Board and Team members is one year. Terms begin in either November or March. The Board and Teams should stagger the term dates of their memberships so that all members of a team don’t change at once.
+Terms begin in either November or March. The term of service for all Board and Team members is one year. After one year, members may leave anytime by their decisions. The Board and Teams should coordinate the term dates of their memberships so that all members of a team don’t change at once.
 
 Members can serve multiple consecutive terms, but we prefer that not be the norm. We want to prevent burnout, cultivate new leaders, and foster a resilient leadership structure. Having the same folks serve in the same positions ad nauseum doesn’t do that.
 

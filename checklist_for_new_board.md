@@ -22,6 +22,8 @@ Additionally,
 
 #### trello board
 - should have access to trello board, ClojureBridge Core Meeting Agendas
+  1. Add to the board <http://help.trello.com/article/717-adding-people-to-a-board>
+  2. Add to the team <http://help.trello.com/article/715-inviting-people-to-an-organization>
 
 #### LastPass account
 - send invitation (should be done by administrator user)

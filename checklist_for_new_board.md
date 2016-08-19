@@ -29,3 +29,6 @@ Additionally,
 - send invitation (should be done by administrator user)
 - add she or he to the ClojureBridge group on LastPass
 
+#### Google Apps account
+- should have xxx@clojurebridge.org at Google Apps account
+  [Note] $5/person each month will be added up to a current charge.

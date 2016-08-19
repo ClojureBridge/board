@@ -30,5 +30,6 @@ Additionally,
 - add she or he to the ClojureBridge group on LastPass
 
 #### Google Apps account
-- should have xxx@clojurebridge.org at Google Apps account
+- should have xxx@clojurebridge.org email account at Google Apps
+
   [Note] $5/person each month will be added up to a current charge.

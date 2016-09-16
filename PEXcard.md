@@ -25,3 +25,4 @@ PEX card system is a bit different from normal credit/debit card. Accroding to C
 ### What's are paid by PEX card
 
 - LastPass Enterprise account
+- Google Apps account (by Sarah Allen's PEX card (?))

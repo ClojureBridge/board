@@ -9,6 +9,7 @@ Here's a list of past board members:
 - Clinton N. Dreisbach [@cndreisbach](https://github.com/cndreisbach)
 - Jamie Kite [@jgkite](https://github.com/jgkite)
 - Jennifer Eliuk
+- Katherine Fellows [@kpfell](https://github.com/k4y3ff)
 - Lynn Grogan [@lynngrogan](https://github.com/lynngrogan)
 - Maggie Litton [@MaggieL](https://github.com/MaggieL)
 - Sean Corfield [@seancorfield](https://github.com/seancorfield)

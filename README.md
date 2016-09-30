@@ -7,7 +7,6 @@ This repository saves and keeps tracking various documents or etc.
 - Anna Pawlicka [@annapawlicka](https://github.com/annapawlicka)
 - Chris Koehnen [@crkoehnen](https://github.com/crkoehnen)
 - David Chambers [@davidchambers](https://github.com/davidchambers)
-- Katherine Fellows [@kpfell](https://github.com/kpfell)
 - Malwine Gier [@Malwine](https://github.com/Malwine)
 - Yoko Harada [@yokolet](https://github.com/yokolet)
 

@@ -10,14 +10,16 @@ All accounts are free unless otherwise noted.
 | Trello  | Shared by LastPass      | Owner's cred is shared. Each member has his/her own account. Used for core meeting agendas. |
 | Twitter | Shared by LastPass      | @ClojureBridge |
 | Mailchimp | Bridget, Jen, Jamie    | Email response(?) when people subscribe on clojurebridge.org |
-| Google Apps[[*1]](#googleapps) | Shared by LastPass  | Admin account. Due to Google's security policy, Sarah Allen, Bridget, Sean(?), Maggie(?) and Yoko can login as admin but none of others. |
+| G Suite[[*1]](#googleapps) | Each memember  | All board members have name@clojurebridge.org email. Passwords are their own password. |
 | Github | Organization account     | All borad members have an owner status. |
 | Web site | Jamie, Yoko | clojurebridge.org. Adding a new events on Rails console and deploying app to Heroku. Cognitect has the Heroku account. |
-| Domain | Buro | Hosted at dnsimple. Buro covers the cost. |
+| Domain | Yoko | Hosted at Google. Yoko covered the first year's cost of $12. |
 | Google Groups | Board members | All board members have an owner status. ClojureBridge has board, Workshops, curriculum, and Alumni mailing lists.|
  
 
 
 <a name="googleapps">[*1]</a>:
-Sarah Allen/Bridge Foundry has added their PEX card and are coved by ClojureBridge General Fund. $5/person each month.
-This app provies email address for name@clojurebridge.org.
+It used be a Google Apps account. This provies email address for name@clojurebridge.org.
+Now our account is a subdomain of BridgeFoundry.
+We are NPO, so we can use it free (no payment required).
+To Add/Remove account, ask BridgeFoundry core member.

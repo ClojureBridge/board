@@ -15,6 +15,7 @@ All accounts are free unless otherwise noted.
 | Web site | Jamie, Yoko | clojurebridge.org. Adding a new events on Rails console and deploying app to Heroku. Cognitect has the Heroku account. |
 | Domain | Yoko | Hosted at Google. Yoko covered the first year's cost of $12. |
 | Google Groups | Board members | All board member have an owner status. ClojureBridge has board, Workshops, curriculum, and Alumni mailing lists.|
+| Cognitect Resources | Russ Olsen | Github @russolsen , clojurebridge.org is hosted at Cognitect Heorku account. Sponsor logs are uploaded to Congnitect owned S3 bucket.|
  
 
 

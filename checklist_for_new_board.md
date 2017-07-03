@@ -31,5 +31,3 @@ Additionally,
 
 #### Google Apps account
 - should have xxx@clojurebridge.org email account at Google Apps
-
-  [Note] $5/person each month will be added up to a current charge.

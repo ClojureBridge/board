@@ -4,6 +4,7 @@ We appreciate selfless efforts done by people who worked as a board member.
 Here's a list of past board members:
 
 - Ali King [@zahara](https://github.com/zahara)
+- Anna Pawlicka [@annapawlicka](https://github.com/annapawlicka)
 - Bhaskar Mookerji [@mookerji](https://github.com/mookerji)
 - Bridget Hillyer [@bridgethillyer](https://github.com/bridgethillyer)
 - Clinton N. Dreisbach [@cndreisbach](https://github.com/cndreisbach)
@@ -12,4 +13,5 @@ Here's a list of past board members:
 - Katherine Fellows [@kpfell](https://github.com/k4y3ff)
 - Lynn Grogan [@lynngrogan](https://github.com/lynngrogan)
 - Maggie Litton [@MaggieL](https://github.com/MaggieL)
+- Malwine Gier [@Malwine](https://github.com/Malwine)
 - Sean Corfield [@seancorfield](https://github.com/seancorfield)

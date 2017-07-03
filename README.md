@@ -4,10 +4,9 @@ This repository saves and keeps tracking various documents or etc.
 
 #### Who is the board
 
-- Anna Pawlicka [@annapawlicka](https://github.com/annapawlicka)
 - Chris Koehnen [@crkoehnen](https://github.com/crkoehnen)
 - David Chambers [@davidchambers](https://github.com/davidchambers)
-- Malwine Gier [@Malwine](https://github.com/Malwine)
+- Franziska Schmidt [@vsmart](https://github.com/vsmart)
 - Yoko Harada [@yokolet](https://github.com/yokolet)
 
 #### What is this for?

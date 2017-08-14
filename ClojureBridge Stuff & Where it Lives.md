@@ -6,9 +6,8 @@ All accounts are free unless otherwise noted.
 
 | Account | Who Has the Credentials | Notes |
 |---------|-------------------------|-------|
-| LastPass | Chris                  | Chris pays the cost by ClojureBridge PEX card. Chris and Yoko are admins. |
-| Trello  | Shared by LastPass      | Owner's cred is shared. Each member has his/her own account. Used for core meeting agendas. |
-| Twitter | Shared by LastPass      | @ClojureBridge |
+| Trello  | Yoko                    | Owner's cred is shared. Each member has his/her own account. Used for core meeting agendas. |
+| Twitter | Yoko                    | @ClojureBridge |
 | Mailchimp | Bridget, Jen, Jamie    | Email response(?) when people subscribe on clojurebridge.org |
 | G Suite[[*1]](#googleapps) | Each memember  | All board members have name@clojurebridge.org email. Passwords are their own password. |
 | Github | Organization account     | All borad member have an owner status. |

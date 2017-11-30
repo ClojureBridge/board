@@ -8,6 +8,7 @@ This repository saves and keeps tracking various documents or etc.
 - David Chambers [@davidchambers](https://github.com/davidchambers)
 - Franziska Schmidt [@vsmart](https://github.com/vsmart)
 - Yoko Harada [@yokolet](https://github.com/yokolet)
+- Abby Sassel [@sassela](https://github.com/sassela)
 
 #### What is this for?
 

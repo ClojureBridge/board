@@ -20,10 +20,5 @@ privileges listed below
 Additionally,
 - tell her/him to subscribe clojurebridge-curriculum if interested
 
-#### trello board
-- should have access to trello board, ClojureBridge Core Meeting Agendas
-  1. Add to the board <http://help.trello.com/article/717-adding-people-to-a-board>
-  2. Add to the team <http://help.trello.com/article/715-inviting-people-to-an-organization>
-
 #### Google Apps account
 - should have xxx@clojurebridge.org email account at Google Apps

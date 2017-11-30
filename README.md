@@ -4,6 +4,7 @@ This repository saves and keeps tracking various documents or etc.
 
 #### Who is the board
 
+- Abby Sassel [@sassela](https://github.com/sassela)
 - Chris Koehnen [@crkoehnen](https://github.com/crkoehnen)
 - David Chambers [@davidchambers](https://github.com/davidchambers)
 - Franziska Schmidt [@vsmart](https://github.com/vsmart)

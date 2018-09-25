@@ -6,10 +6,8 @@ This repository saves and keeps tracking various documents or etc.
 
 - Abby Sassel [@sassela](https://github.com/sassela)
 - Chris Koehnen [@crkoehnen](https://github.com/crkoehnen)
-- David Chambers [@davidchambers](https://github.com/davidchambers)
 - Franziska Schmidt [@vsmart](https://github.com/vsmart)
 - Nola Stowe [@rubygeek](https://github.com/rubygeek)
-- Yoko Harada [@yokolet](https://github.com/yokolet)
 
 #### What is this for?
 

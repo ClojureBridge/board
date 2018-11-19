@@ -8,6 +8,7 @@ Here's a list of past board members:
 - Bhaskar Mookerji [@mookerji](https://github.com/mookerji)
 - Bridget Hillyer [@bridgethillyer](https://github.com/bridgethillyer)
 - Clinton N. Dreisbach [@cndreisbach](https://github.com/cndreisbach)
+- David Chambers [@davidchambers](https://github.com/davidchambers)
 - Jamie Kite [@jgkite](https://github.com/jgkite)
 - Jennifer Eliuk
 - Katherine Fellows [@kpfell](https://github.com/k4y3ff)
@@ -15,3 +16,4 @@ Here's a list of past board members:
 - Maggie Litton [@MaggieL](https://github.com/MaggieL)
 - Malwine Gier [@Malwine](https://github.com/Malwine)
 - Sean Corfield [@seancorfield](https://github.com/seancorfield)
+- Yoko Harada [@yokolet](https://github.com/yokolet)

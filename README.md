@@ -8,6 +8,7 @@ This repository saves and keeps tracking various documents or etc.
 - Chris Koehnen [@crkoehnen](https://github.com/crkoehnen)
 - Franziska Schmidt [@vsmart](https://github.com/vsmart)
 - Nola Stowe [@rubygeek](https://github.com/rubygeek)
+- Saskia Lindner [@saskali](https://github.com/saskali)
 
 #### What is this for?
 

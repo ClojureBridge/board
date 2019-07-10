@@ -3,6 +3,9 @@
 When a new member joins the board, she or he should have accesses or
 privileges listed below
 
+#### Google Apps account
+- should have xxx@clojurebridge.org email account at Google Apps
+
 #### Google Calendar
 - send invitation to the email for our monthly meeting on Google Hangout
 
@@ -14,11 +17,8 @@ privileges listed below
 - should have an owner status
 
 #### google groups
-- should be on ClojureBridge board and ClojureBridge Workshops
+- should be on [ClojureBridge board](https://groups.google.com/forum/#!forum/clojurebridge-board) and [ClojureBridge Workshops](https://groups.google.com/forum/#!forum/clojurebridge-workshops)
 - should be an owner for both
 
-Additionally,
-- tell her/him to subscribe clojurebridge-curriculum if interested
-
-#### Google Apps account
-- should have xxx@clojurebridge.org email account at Google Apps
+#### Optional Curriculum updates
+- subscribe to [clojurebridge curriculum updates](https://github.com/ClojureBridge/curriculum) if interested

@@ -2,12 +2,11 @@
 
 This repository saves and keeps tracking various documents or etc.
 
-#### Who is the board
+#### Who is on the board
 
 - Abby Sassel [@sassela](https://github.com/sassela)
 - Chris Koehnen [@crkoehnen](https://github.com/crkoehnen)
 - Franziska Schmidt [@vsmart](https://github.com/vsmart)
-- Nola Stowe [@rubygeek](https://github.com/rubygeek)
 - Saskia Lindner [@saskali](https://github.com/saskali)
 
 #### What is this for?
@@ -22,7 +21,7 @@ Google docs or other for historical reasons.
 Please file an issue in this repository.
 
 ### WIKI
-We have a [wiki](https://github.com/ClojureBridge/board/wiki) to collect information and email templates. 
+[An overview of ClojureBridge and the board can be found here](https://github.com/ClojureBridge/board/blob/master/overview.md). We also have a [wiki](https://github.com/ClojureBridge/board/wiki) to collect information and email templates. 
 
 #### What's next?
 

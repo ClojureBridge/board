@@ -3,6 +3,7 @@
 We appreciate selfless efforts done by people who worked as a board member.
 Here's a list of past board members:
 
+- Abby Sassel [@sassela](https://github.com/sassela)
 - Ali King [@zahara](https://github.com/zahara)
 - Anna Pawlicka [@annapawlicka](https://github.com/annapawlicka)
 - Bhaskar Mookerji [@mookerji](https://github.com/mookerji)

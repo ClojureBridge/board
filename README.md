@@ -4,9 +4,11 @@ This repository saves and keeps tracking various documents or etc.
 
 #### Who is on the board
 
-- Abby Sassel [@sassela](https://github.com/sassela)
+- Andrew Whitehouse [@andrewwhitehouse](https://github.com/andrewwhitehouse)
 - Chris Koehnen [@crkoehnen](https://github.com/crkoehnen)
 - Franziska Schmidt [@vsmart](https://github.com/vsmart)
+- Laís Oliveira [@laisoliveira](https://github.com/laisoliveira)
+- Paula Gearon [@quoll](https://github.com/quoll)
 - Saskia Lindner [@saskali](https://github.com/saskali)
 
 #### What is this for?

@@ -19,3 +19,4 @@ Here's a list of past board members:
 - Malwine Gier [@Malwine](https://github.com/Malwine)
 - Sean Corfield [@seancorfield](https://github.com/seancorfield)
 - Yoko Harada [@yokolet](https://github.com/yokolet)
+- Nola Stowe [@rubygeek](https://github.com/rubygeek)

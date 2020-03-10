@@ -8,7 +8,7 @@ This repository saves and keeps tracking various documents or etc.
 - Chris Koehnen [@crkoehnen](https://github.com/crkoehnen)
 - Laís Oliveira [@laisoliveira](https://github.com/laisoliveira)
 - Paula Gearon [@quoll](https://github.com/quoll)
-- Saskia Lindner [@saskali](https://github.com/saskali)
+- Kayla (Saskia) Lindner [@saskali](https://github.com/saskali)
 
 #### What is this for?
 

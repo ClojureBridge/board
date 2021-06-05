@@ -3,6 +3,7 @@
 We appreciate selfless efforts done by people who worked as a board member.
 Here's a list of past board members:
 
+- Kayla Lipinska [@saskali](https://github.com/saskali/)
 - Franziska Schmidt [@vsmart](https://github.com/vsmart)
 - Abby Sassel [@sassela](https://github.com/sassela)
 - Ali King [@zahara](https://github.com/zahara)
